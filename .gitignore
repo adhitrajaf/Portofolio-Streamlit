@@ -10,4 +10,4 @@ __pycache__/
 .DS_Store
 
 # File environment (jika ada, untuk menyimpan secret key)
-.env
+.env   
