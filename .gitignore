@@ -1,0 +1,13 @@
+# Folder Virtual Environment
+streamlit_env/
+venv/
+env/
+
+# Folder cache Python
+__pycache__/
+
+# File spesifik sistem operasi
+.DS_Store
+
+# File environment (jika ada, untuk menyimpan secret key)
+.env
